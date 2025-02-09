@@ -35,6 +35,10 @@
 - 🎓 Leonardo Salvador
 - 🎓 Josué
 
+## 🗂 Diagrama DER (Diagrama Entidade Relacionamento)
+
+![alt text](DER.png)
+
 ## Vamos juntos aprender e crescer no mundo da análise de dados! 🚀📊
 
 ### "O sucesso é a soma de pequenos esforços repetidos dia após dia." 💪
